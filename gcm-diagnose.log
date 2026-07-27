@@ -1,0 +1,204 @@
+﻿Diagnose log at 2026-07-14T05:42:15Z
+
+AppPath: C:\Users\student\AppData\Local\Programs\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Users\student\AppData\Local\Programs\Git\mingw64\bin\
+Version: 2.8.0+d5e8a3442d48cc5efe7014e093e44242c0bd395f
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+ORIGINAL_TMP=C:/Users/student/AppData/Local/Temp
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+EXEPATH=C:\Users\student\AppData\Local\Programs\Git
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 191 Stepping 2, GenuineIntel
+EFC_6884_4126798990=1
+APPDATA=C:\Users\student\AppData\Roaming
+TMP=C:\Users\student\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+INFOPATH=C:\Users\student\AppData\Local\Programs\Git\mingw64\local\info;C:\Users\student\AppData\Local\Programs\Git\mingw64\share\info;C:\Users\student\AppData\Local\Programs\Git\usr\local\info;C:\Users\student\AppData\Local\Programs\Git\usr\share\info;C:\Users\student\AppData\Local\Programs\Git\usr\info;C:\Users\student\AppData\Local\Programs\Git\share\info
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PWD=C:/Users/student/Desktop/Ashique
+CONFIG_SITE=C:/Users/student/AppData/Local/Programs/Git/etc/config.site
+PROCESSOR_REVISION=bf02
+OLDPWD=C:/Users/student
+TEMP=C:\Users\student\AppData\Local\Temp
+USERPROFILE=C:\Users\student
+PKG_CONFIG_PATH=C:\Users\student\AppData\Local\Programs\Git\mingw64\lib\pkgconfig;C:\Users\student\AppData\Local\Programs\Git\mingw64\share\pkgconfig
+LOGONSERVER=\\CA-19
+TERM=xterm-256color
+USERNAME=student
+ProgramData=C:\ProgramData
+GIT_EXEC_PATH=C:/Users/student/AppData/Local/Programs/Git/mingw64/libexec/git-core
+PLINK_PROTOCOL=ssh
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+_=C:/Users/student/AppData/Local/Programs/Git/mingw64/bin/git
+PATH=C:/Users/student/AppData/Local/Programs/Git/mingw64/libexec/git-core;C:\Users\student\bin;C:\Users\student\AppData\Local\Programs\Git\mingw64\bin;C:\Users\student\AppData\Local\Programs\Git\usr\local\bin;C:\Users\student\AppData\Local\Programs\Git\usr\bin;C:\Users\student\AppData\Local\Programs\Git\usr\bin;C:\Users\student\AppData\Local\Programs\Git\mingw64\bin;C:\Users\student\AppData\Local\Programs\Git\usr\bin;C:\Users\student\bin;D:\app\oracle\product\12.1.0\client_1\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;C:\Users\student\AppData\Local\Programs\Python\Launcher;C:\Users\student\.local\bin;C:\Users\student\AppData\Local\Microsoft\WindowsApps;C:\Users\student\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\student\AppData\Local\Programs\Git\cmd;C:\Users\student\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\student\AppData\Local\Programs\Git\usr\bin\core_perl
+OneDrive=C:\Users\student\OneDrive
+LOCALAPPDATA=C:\Users\student\AppData\Local
+MSYSTEM_CARCH=x86_64
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ZES_ENABLE_SYSMAN=1
+PKG_CONFIG_SYSTEM_INCLUDE_PATH=C:/Users/student/AppData/Local/Programs/Git/mingw64/include
+PROCESSOR_LEVEL=6
+MINGW_CHOST=x86_64-w64-mingw32
+HOSTNAME=CA-19
+HOMEPATH=\Users\student
+DISPLAY=needs-to-be-defined
+MANPATH=C:\Users\student\AppData\Local\Programs\Git\mingw64\local\man;C:\Users\student\AppData\Local\Programs\Git\mingw64\share\man;C:\Users\student\AppData\Local\Programs\Git\usr\local\man;C:\Users\student\AppData\Local\Programs\Git\usr\share\man;C:\Users\student\AppData\Local\Programs\Git\usr\man;C:\Users\student\AppData\Local\Programs\Git\share\man
+WINDIR=C:\WINDOWS
+USERDOMAIN=CA-19
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+SYSTEMROOT=C:\WINDOWS
+NUMBER_OF_PROCESSORS=20
+SHELL=C:\Users\student\AppData\Local\Programs\Git\usr\bin\bash.exe
+PROGRAMFILES=C:\Program Files
+SHLVL=1
+SESSIONNAME=Console
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+GIT_TRACE2_PARENT_SID=fadc3a96-ae8a-4182-9c84-52178a3816c9
+ACLOCAL_PATH=C:\Users\student\AppData\Local\Programs\Git\mingw64\share\aclocal;C:\Users\student\AppData\Local\Programs\Git\usr\share\aclocal
+ORIGINAL_PATH=C:\Users\student\AppData\Local\Programs\Git\mingw64\bin;C:\Users\student\AppData\Local\Programs\Git\usr\bin;C:\Users\student\bin;D:\app\oracle\product\12.1.0\client_1\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\dotnet;C:\Users\student\AppData\Local\Programs\Python\Launcher;C:\Users\student\.local\bin;C:\Users\student\AppData\Local\Microsoft\WindowsApps;C:\Users\student\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\student\AppData\Local\Programs\Git\cmd
+OS=Windows_NT
+MSYSTEM_PREFIX=C:/Users/student/AppData/Local/Programs/Git/mingw64
+MSYSTEM_CHOST=x86_64-w64-mingw32
+MINGW_PREFIX=C:/Users/student/AppData/Local/Programs/Git/mingw64
+ORIGINAL_TEMP=C:/Users/student/AppData/Local/Temp
+HOME=C:\Users\student
+EFC_6884_1592913036=1
+SYSTEMDRIVE=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+TMPDIR=C:\Users\student\AppData\Local\Temp
+MINGW_PACKAGE_PREFIX=mingw-w64-x86_64
+PS1=\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ 
+COMPUTERNAME=CA-19
+LC_CTYPE=en_US.UTF-8
+SSH_ASKPASS=C:/Users/student/AppData/Local/Programs/Git/mingw64/bin/git-askpass.exe
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+TERM_PROGRAM_VERSION=3.8.3
+PKG_CONFIG_SYSTEM_LIBRARY_PATH=C:/Users/student/AppData/Local/Programs/Git/mingw64/lib
+USERDOMAIN_ROAMINGPROFILE=CA-19
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=mintty
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\student\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\student\AppData\Local\Temp\ae78435fa70f65203fbc251c'... OK
+Reading from temporary file 'C:\Users\student\AppData\Local\Temp\ae78435fa70f65203fbc251c'... OK
+Deleting temporary file 'C:\Users\student\AppData\Local\Temp\ae78435fa70f65203fbc251c'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\student
+UserDataDirectoryPath: C:\Users\student\.gcm
+GetCurrentDirectory(): C:\Users\student\Desktop\Ashique
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:58683/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.55.0.windows.2'
+Locating current repository...Git repository at 'C:/Users/student/Desktop/Ashique/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	core.fscache=true
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	core.symlinks=false
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	pull.rebase=false
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	credential.helper=manager
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Users/student/AppData/Local/Programs/Git/etc/gitconfig	init.defaultbranch=master
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	user.name=Ashiquejo
+file:.git/config	user.email=joashique@gmail.com
+file:.git/config	remote.origin.url=https://github.com/Ashiquejo/ML_lab.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	pull.rebase=false
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\student\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\student\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+

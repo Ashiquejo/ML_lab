@@ -53,7 +53,7 @@ r2_values = [metrics[m][1] for m in models]
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(13, 5))
 
 # Plot 1: Mean Squared Error (Lower is better)
-colors1 = ['salmon', 'tomato', 'darkred']
+colors1 = ['#8DA0CB', '#5E81AC', '#2F4B7C']
 bars1 = ax1.bar(models, mse_values, color=colors1, edgecolor='black', width=0.5)
 ax1.set_title('Mean Squared Error (Lower is Better)')
 ax1.set_ylabel('MSE Value')
