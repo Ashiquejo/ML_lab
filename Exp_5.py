@@ -28,4 +28,5 @@ for i, col in enumerate(cols):
 
 ax.set(xticks=x + 1.5*w, xticklabels=top['Word'], ylabel='Probability', ylim=(0, top['MLE'].max() * 1.5))
 plt.tight_layout()
+plt.savefig("Exp_5.png")
 plt.show()
