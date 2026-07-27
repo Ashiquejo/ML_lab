@@ -30,4 +30,5 @@ for ax, (name, m), c in zip(axes.flat[1:], models.items(), colors):
     ax.set(title=f'Weights: {name}', xlabel='Feature', ylabel='Weight')
     ax.grid(True)
 
-plt.tight_layout(); plt.show() ; plt.savefig("EXP_4.PNG")
+plt.tight_layout();  
+plt.savefig("Exp_4.png");plt.show()
